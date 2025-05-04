@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Darshan Chougule and this is my Github </h2>
+<h2 align="left">Hi 👋! My name is Darshan Chougule and and ,I am an undergraduate student @DKTE </h2>
 
 ###
 
