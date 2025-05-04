@@ -1,6 +1,7 @@
-<h2 align="left">Hi 👋! My name is Darshan Chougule and and ,I am an undergraduate student @DKTE </h2>
+<h1 align="center">Hi there, I'm <a href="https://www.linkedin.com/in/darshan-chougule-2128652a6/" target="_blank">Darshan Chougule</a> <img
+src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" /></h1>
 
-###
+<br />
 
 
 <div align="center">
