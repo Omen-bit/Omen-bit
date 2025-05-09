@@ -16,7 +16,7 @@
         <li>🌍 Advocating tech for social good and rural empowerment</li>
       </ul>
     </td>
-    <td align="right" width="80%">
+    <td align="right" width="70%">
       <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="200" />
     </td>
   </tr>
@@ -29,7 +29,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Omen-bit&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=false" height="150" />
   <img src="https://streak-stats.demolab.com?user=Omen-bit&theme=radical&hide_border=false&border_radius=5" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omen-bit&layout=compact&langs_count=6&theme=gotham&hide_border=false" height="150" />
 </div>
 
 ---
@@ -59,4 +58,8 @@
   <a href="https://twitter.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
   </a>
+</div>
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omen-bit.Omen-bit&left_color=darkslategrey"  />
 </div>
