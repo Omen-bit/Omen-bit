@@ -4,29 +4,37 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
-<p align="center">
-  👨‍💻 Passionate AI & Data Science student | 💡 Innovator | 📊 Hackathon Enthusiast  
-</p>
-
-<div align="center">
-  <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="180" />
-</div>
+<!-- Intro and GIF side-by-side -->
+<table align="center">
+  <tr>
+    <td align="left" valign="top" width="60%">
+      <ul>
+        <li>🎓 AI & Data Science Undergraduate</li>
+        <li>💡 Building Innovative, Impact-Driven Tech Solutions</li>
+        <li>🌱 Constant Learner | 💻 Full-Stack & AI Developer</li>
+        <li>🏆 Hackathon Finalist | 🤖 IoT & ML Explorer</li>
+        <li>🌍 Passionate about Rural Empowerment through Technology</li>
+      </ul>
+    </td>
+    <td align="right" width="40%">
+      <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="200" />
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 📈 My GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Omen-bit&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=rose_pine&locale=en&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=Omen-bit&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omen-bit&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gotham&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Omen-bit&show_icons=true&include_all_commits=true&count_private=true&theme=rose_pine&hide_border=false" height="150" />
+  <img src="https://streak-stats.demolab.com?user=Omen-bit&theme=radical&hide_border=false&border_radius=5" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Omen-bit&layout=compact&langs_count=6&theme=gotham&hide_border=false" height="150" />
 </div>
 
 ---
 
-### 🛠️ Technologies & Tools
-
-<div align="center">
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="35" alt="React" />
@@ -38,13 +46,11 @@
 
 ---
 
-### 🌐 Connect with Me
-
-<div align="center">
+<div align="left">
   <a href="https://www.instagram.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram" />
   </a>
-  <a href="mailto:your-email@gmail.com" target="_blank">
+  <a href="mailto:darshanchougule821@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail" />
   </a>
   <a href="https://www.linkedin.com/in/darshan-chougule-2128652a6/" target="_blank">
@@ -54,5 +60,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
   </a>
 </div>
-
----
