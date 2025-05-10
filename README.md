@@ -7,6 +7,7 @@
 <div align="left">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=Omen-bit.Omen-bit&left_color=darkslategrey&left_text=profile%20views"  />
 </div>
+<br />
 
 <table align="center">
   <tr>
