@@ -4,6 +4,10 @@
   <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32" />
 </h1>
 
+<div align="left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omen-bit.Omen-bit&left_color=darkslategrey&left_text=profile%20views"  />
+</div>
+
 <table align="center">
   <tr>
     <td align="left" valign="top" width="70%">
@@ -58,8 +62,4 @@
   <a href="https://twitter.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
   </a>
-</div>
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omen-bit.Omen-bit&left_color=darkslategrey"  />
 </div>
