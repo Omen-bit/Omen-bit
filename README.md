@@ -5,23 +5,27 @@
 </h1>
 
 <div align="left">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omen-bit.Omen-bit&left_color=darkslategrey&left_text=profile%20views"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Omen-bit.Omen-bit&left_color=darkslategrey&left_text=Profile%20Views" />
 </div>
-<br />
+
+<br/>
 
 <table align="center">
   <tr>
     <td align="left" valign="top" width="70%">
+      <p>
+        I’m <strong>Darshan Chougule</strong>, an undergraduate student specializing in <strong>Artificial Intelligence and Data Science</strong>.
+      </p>
       <ul>
-        <li>🎓 AI & Data Science undergraduate student</li>
-        <li>💡 Passionate about building innovative and impactful solutions</li>
-        <li>🧠 Focus on AI, IoT, and full-stack development</li>
-        <li>🛠️ Hands-on experience through real-world projects and hackathons</li>
-        <li>🌱 Lifelong learner, constantly exploring emerging technologies</li>
-        <li>🌍 Advocating tech for social good and rural empowerment</li>
+        <li>📘 Currently focused on <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Python development</strong></li>
+        <li>🔧 Exploring the intersection of <strong>AI, IoT, and full-stack development</strong></li>
+        <li>🚀 Actively involved in <strong>hackathons</strong> and project-based learning</li>
+        <li>💡 Passionate about building practical, real-world solutions</li>
+        <li>🌱 Committed to continuous learning and technical growth</li>
+        <li>🌍 Driven to apply technology for <strong>social good</strong> and <strong>rural impact</strong></li>
       </ul>
     </td>
-    <td align="right" width="70%">
+    <td align="right" width="30%">
       <img src="https://github.com/blackcater/blackcater/raw/main/images/banner.gif" height="200" />
     </td>
   </tr>
@@ -38,6 +42,8 @@
 
 ---
 
+### 💻 Tech Stack
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="JavaScript" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="35" alt="TypeScript" style="margin-right:10px;" />
@@ -45,10 +51,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="HTML5" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="CSS3" style="margin-right:10px;" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="Python" style="margin-right:10px;" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="35" alt="Java" />
 </div>
 
 ---
+
+### 🌐 Connect with Me
 
 <div align="left">
   <a href="https://www.instagram.com/" target="_blank" style="margin-right: 15px;">
@@ -64,4 +72,3 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="40" alt="Twitter" />
   </a>
 </div>
-
