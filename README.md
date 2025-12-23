@@ -60,10 +60,10 @@
 
 ### Tools & DevOps
 <img src="https://skillicons.dev/icons?i=git,github,githubactions,selenium&perline=8" />
+<br/>
+<img src="https://img.shields.io/badge/LangChain-2ea44f?style=for-the-badge&logo=chainlink&logoColor=white" />
 
 </div>
-
-
 
 
 ---
