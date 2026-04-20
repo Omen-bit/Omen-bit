@@ -17,12 +17,12 @@
         I’m <strong>Darshan Chougule</strong>, an undergraduate specializing in <strong>Artificial Intelligence and Data Science</strong>, focused on building production-grade <strong>LLM applications</strong> and <strong>RAG pipelines</strong>.
       </p>
       <ul>
-        <li>🤖 Building GenAI products using <strong>LangChain, Groq, Zilliz Cloud</strong>, and vector databases</li>
+        <li>🤖 Building GenAI products using <strong>Docline, LangChain, Groq, Zilliz Cloud, vector DBs</strong></li>
         <li>🔍 Specialized in <strong>prompt engineering, LLM chaining</strong>, and semantic retrieval systems</li>
-        <li>🏆 ACM WCE Hackathon Top 6 Finalist (400+ entries) and GDG Hackathon Top 18 (200+ teams)</li>
-        <li>🚀 Built <strong>NeuroNauts</strong> (RAG-based AI textbook companion) and <strong>Clunite</strong> (full-stack campus platform)</li>
-        <li>🧠 Focused on applying <strong>GenAI with backend engineering</strong> to solve real-world problems</li>
-        <li>📍 Open to <strong>GenAI Engineer</strong> and <strong>Python Backend</strong> opportunities</li>
+        <li>🏆 ACM WCE Hackathon Top 6 Finalist (400+ entries) · GDG Hackathon Top 18 </li>
+        <li>🚀 Built <strong>NeuroNauts</strong> (RAG AI companion) · <strong>Clunite</strong> (full-stack campus platform)</li>
+        <li>🧠 Applying <strong>GenAI with backend engineering</strong> to solve real-world problems</li>
+        <li>📍 Open to <strong>GenAI Engineer</strong> and <strong>Python Backend</strong> roles</li>
       </ul>
     </td>
     <td align="right" width="30%">
