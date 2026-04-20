@@ -14,15 +14,15 @@
   <tr>
     <td align="left" valign="top" width="70%">
       <p>
-        I’m <strong>Darshan Chougule</strong>, an undergraduate student specializing in <strong>Artificial Intelligence and Data Science</strong>.
+        I’m <strong>Darshan Chougule</strong>, an undergraduate specializing in <strong>Artificial Intelligence and Data Science</strong>, focused on building production-grade <strong>LLM applications</strong> and <strong>RAG pipelines</strong>.
       </p>
       <ul>
-        <li>📘 Currently focused on <strong>Machine Learning</strong>, <strong>Data Science</strong>, and <strong>Python development</strong></li>
-        <li>🔧 Exploring the intersection of <strong>AI, IoT, and full-stack development</strong></li>
-        <li>🚀 Actively involved in <strong>hackathons</strong> and project-based learning</li>
-        <li>💡 Passionate about building practical, real-world solutions</li>
-        <li>🌱 Committed to continuous learning and technical growth</li>
-        <li>🌍 Driven to apply technology for <strong>social good</strong> and <strong>rural impact</strong></li>
+        <li>🤖 Building GenAI products using <strong>LangChain, Groq, Zilliz Cloud</strong>, and vector databases</li>
+        <li>🔍 Specialized in <strong>prompt engineering, LLM chaining</strong>, and semantic retrieval systems</li>
+        <li>🏆 ACM WCE Hackathon Top 6 Finalist (400+ entries) and GDG Hackathon Top 18 (200+ teams)</li>
+        <li>🚀 Built <strong>NeuroNauts</strong> (RAG-based AI textbook companion) and <strong>Clunite</strong> (full-stack campus platform)</li>
+        <li>🧠 Focused on applying <strong>GenAI with backend engineering</strong> to solve real-world problems</li>
+        <li>📍 Open to <strong>GenAI Engineer</strong> and <strong>Python Backend</strong> opportunities</li>
       </ul>
     </td>
     <td align="right" width="30%">
