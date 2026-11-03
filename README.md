@@ -1,4 +1,4 @@
-<img src="header.svg" width="100%" alt="Darshan Chougule — AI/ML Engineer" />
+<img src="header-dark.svg" width="100%" alt="Darshan Chougule — AI/ML Engineer" />
 
 ---
 
