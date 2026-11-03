@@ -21,6 +21,15 @@
     .n4 rect { animation-delay: 2.7s; }
     @keyframes pulse { 0%, 25%, 100% { stroke: #30363d; } 10% { stroke: #3fb950; } }
 
+    @media (prefers-color-scheme: light) {
+      .fg, .node text { fill: #1f2328; }
+      .muted { fill: #59636e; }
+      .accent { fill: #1a7f37; }
+      .node rect { fill: #f6f8fa; stroke: #d1d9e0; }
+      .wire { stroke: #d1d9e0; }
+      @keyframes pulse { 0%, 25%, 100% { stroke: #d1d9e0; } 10% { stroke: #1a7f37; } }
+    }
+
     @media (prefers-reduced-motion: reduce) {
       .cursor, .packet, .node rect { animation: none; }
     }
